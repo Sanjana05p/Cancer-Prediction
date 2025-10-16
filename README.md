@@ -23,7 +23,7 @@ The model was trained and optimized to improve accuracy, minimize loss, and enha
 ---
 
 ## 📂 Files
-➡️ [**Click here to view the Jupyter Notebook**](Cancer_Project_AI_IoA_23_11_2024.ipynb)
+➡️ [**Click here to view the Jupyter Notebook**](Cancer_Project_AI_IoA_23_11_2024.ipynb) <br>
 ➡️ [**Click here to view the Dataset**](cancer.xls)
 
 ---
